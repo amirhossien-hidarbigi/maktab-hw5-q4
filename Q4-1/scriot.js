@@ -28,11 +28,11 @@ function createNotification() {
   }, 5000);
 }
 
-function closeNotification() {
-  if (notification) {
-    document.body.removeChild(notification);
-  }
-}
+// function closeNotification() {
+//   if (notification) {
+//     document.body.removeChild(notification);
+//   }
+// }
 
 // function changePosition() {
 //   if (notification) {
