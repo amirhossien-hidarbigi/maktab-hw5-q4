@@ -37,7 +37,6 @@ function closeNotification() {
 // function changePosition() {
 //   if (notification) {
 //     const position = prompt(
-//       "مکان نمایش نوتیفیکیشن را تغییر دهید (right یا bottom):"
 //     );
 //     if (!position || (position !== "right" && position !== "bottom")) return;
 
